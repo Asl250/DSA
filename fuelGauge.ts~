@@ -1,6 +1,0 @@
-let fuel: number = +prompt('Enter the amount of fuel');
-
-if (fuel  != number ) {
-	console.log()
-}
-
